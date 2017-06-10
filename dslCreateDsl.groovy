@@ -1,7 +1,7 @@
 def DSLs = [
         "mySampleDsl":
                 [
-                    'path': 'jobs/mysampleDsl.groovy'
+                    'path': 'mysampleDsl.groovy'
                 ]
 ]
 
